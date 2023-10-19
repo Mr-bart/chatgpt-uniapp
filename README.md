@@ -137,5 +137,5 @@ npm install
 
 ### 详细可联系
 
-VX:扫以下二维码
+VX:Mr-bart
 ![输入图片说明](rdimg/wx.png)
